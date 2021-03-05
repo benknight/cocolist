@@ -28,7 +28,7 @@
     "@thumbtack/thumbprint-tokens": "^12.1.0",
     "@xstate/react": "^0.8.1",
     "algoliasearch": "^3.35.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-jest": "^24.9.0",
     "babel-preset-gatsby": "^0.2.36",
     "classnames": "^2.2.6",
